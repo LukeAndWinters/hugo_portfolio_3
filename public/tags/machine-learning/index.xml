@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Hugo Profile</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coogee</title>
+      <link>http://localhost:1313/projects/coogee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/coogee/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Use AI, Machine Learning, and Computer Vision, approaches to analyse titanium powder samples&lt;/li&gt;&#xA;&lt;li&gt;Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

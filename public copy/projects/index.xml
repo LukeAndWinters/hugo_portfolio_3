@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hugo Profile</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChessBot - Closed Loop Control</title>
+      <link>http://localhost:1313/projects/chessrobot/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/chessrobot/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; &#xA;  src=&#34;https://www.youtube.com/embed/Llkglyc_V0Q&#34; &#xA;  title=&#34;ChessBot Video Demo&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;This system uses closed-loop velocity control and vision-based feedback to control a robotic arm designed for playing chess. The parallel linkage mechanism ensures accurate and fluid movement of the chess pieces on a real board.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol-copy-2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol-copy-2/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; &#xA;  src=&#34;https://youtu.be/-2F_cr2FCYE&#34; &#xA;  title=&#34;YouTube video player&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol-copy-4/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol-copy-4/</guid>
+      <description>&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol-copy/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol-copy/</guid>
+      <description>&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol/</guid>
+      <description>&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

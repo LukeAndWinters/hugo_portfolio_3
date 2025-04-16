@@ -1,0 +1,95 @@
+<section id="projects" class="section">
+  <style>
+    .card-img-wrapper {
+      height: 200px;
+      overflow: hidden;
+    }
+
+    .card-img-zoom {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+    }
+
+    .badge {
+      font-size: 0.75rem;
+      padding: 0.4em 0.65em;
+      border-radius: 0.25rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .card-link {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .card-link:hover {
+      text-decoration: none;
+    }
+
+    .tag-container {
+      text-align: center;
+    }
+
+    /* New: make hover outline visible */
+    .card {
+      border: 2px solid transparent;
+      transition: border 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+
+    .card:hover {
+      border: 2px solid white;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    }
+  </style>
+
+  <div class="container">
+    <div class="row mb-4">
+      <div class="col text-center">
+        <h2 class="section-title">Projects</h2>
+      </div>
+    </div>
+
+    <div class="row g-4">
+      {{ range .Site.RegularPages.ByDate.Reverse }}
+        {{ if and (eq .Section "projects") (ne .Params.card false) }}
+          <div class="col-12 col-md-6 col-lg-4">
+            <a href="{{ .RelPermalink }}" class="card-link">
+              <div class="card h-100 shadow-sm d-flex flex-column">
+    
+                {{ if .Params.image }}
+                <div class="card-img-wrapper">
+                  <img 
+                    src="{{ .Params.image | relURL }}" 
+                    class="card-img-zoom" 
+                    alt="{{ .Title }}">
+                </div>
+                {{ end }}
+    
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title">{{ .Title }}</h5>
+    
+                  {{ if .Params.description }}
+                    <p class="card-text">{{ .Params.description }}</p>
+                  {{ else }}
+                    <p class="card-text">{{ .Summary }}</p>
+                  {{ end }}
+    
+                  {{ if .Params.tags }}
+                    <div class="mt-2 mb-3 tag-container">
+                      {{ range .Params.tags }}
+                        <span class="badge bg-secondary me-1">{{ . }}</span>
+                      {{ end }}
+                    </div>
+                  {{ end }}
+                </div>
+              </div>
+            </a>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>

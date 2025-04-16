@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiment Design on Hugo Profile</title>
+    <link>http://localhost:1313/tags/experiment-design/</link>
+    <description>Recent content in Experiment Design on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/experiment-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drill Experiment - Measuring Relationship Between Drill Length and Torque</title>
+      <link>http://localhost:1313/projects/drill/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drill/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; &#xA;  src=&#34;https://www.youtube.com/embed/MxE4Ym68O-w&#34; &#xA;  title=&#34;Drill Video - Mechatronics Systems Design&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;Designed a experimental system to measure the relationship between Archimedes screw length and torque exerted on the drill.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

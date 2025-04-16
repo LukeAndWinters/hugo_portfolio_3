@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on Hugo Profile</title>
+    <link>http://localhost:1313/tags/unity/</link>
+    <description>Recent content in Unity on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol-copy-2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol-copy-2/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; &#xA;  src=&#34;https://youtu.be/-2F_cr2FCYE&#34; &#xA;  title=&#34;YouTube video player&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol-copy-4/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol-copy-4/</guid>
+      <description>&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol-copy/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol-copy/</guid>
+      <description>&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Beach Safety System - Capstone Project</title>
+      <link>http://localhost:1313/projects/drone-beach-patrol/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/drone-beach-patrol/</guid>
+      <description>&lt;p&gt;This system uses computer vision and multi-agent control algorithms to detect hazards such as rip currents, sharks, and swimmers in distress.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

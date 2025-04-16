@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-Agent Control Theory on Hugo Profile</title>
+    <link>http://localhost:1313/tags/multi-agent-control-theory/</link>
+    <description>Recent content in Multi-Agent Control Theory on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/multi-agent-control-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Beach Safety System - Capstone</title>
+      <link>http://localhost:1313/projects/capstone/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/capstone/</guid>
+      <description>&lt;p&gt;Multiple drones autonomously patrol a beach, they use a Machine Learning model to detect common beach hazards such as &lt;strong&gt;sharks&lt;/strong&gt;, &lt;strong&gt;rip-currents&lt;/strong&gt; and &lt;strong&gt;swimmers&lt;/strong&gt;. Hazard locations and human Surf-Life-Saver (SLS) input is used in Multi-Agent Control Theory to optimally path the drones based on SLS input - assisting with emergency response and coverage.&lt;/p&gt;&#xA;&lt;p&gt;Proof-of-concept drone patrol network made in collaboration with the SharkSmart Drone Trial Surf-Life Savers members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;project-demo&#34;&gt;Project Demo&lt;/h2&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;670&#34; &#xA;  src=&#34;https://www.youtube.com/embed/-2F_cr2FCYE&#34;&#xA;  title=&#34;Drill Video - Mechatronics Systems Design&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;div style=&#34;display: flex; gap: 2rem; flex-wrap: wrap; justify-content: space-between;&#34;&gt;&#xA;  &lt;br&gt;&#xA;  &lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;    &lt;h5&gt;Asset Labels: &lt;/h5&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Pink Squares&lt;/strong&gt; – Drone Camera Field of View (FoV)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Green Circle&lt;/strong&gt; – Human Swimmer outline&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Red Circles&lt;/strong&gt; – Shark outline&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;    &lt;h5&gt;Mapping Labels: &lt;/h5&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Orange&lt;/strong&gt; – Uncertainty Regions&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Red Gaussians&lt;/strong&gt; – Interest Regions (Manually dropped with human input)&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h5&gt;Side Bar :&lt;/h5&gt;  &#xA;&lt;p&gt;&lt;strong&gt;Spawners&lt;/strong&gt;: Can spawn in humans, sharks, rocks and patrolling drones.&lt;br&gt;&#xA;&lt;strong&gt;Importance&lt;/strong&gt;: Adjust the uncertainty and interest metrics to influence drone pathing&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Profile</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customer Interaction</title>
+      <link>http://localhost:1313/tags/customer-interaction/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/customer-interaction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Agent Control Theory</title>
+      <link>http://localhost:1313/tags/multi-agent-control-theory/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/multi-agent-control-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity HDRP</title>
+      <link>http://localhost:1313/tags/unity-hdrp/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unity-hdrp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YOLOv8</title>
+      <link>http://localhost:1313/tags/yolov8/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yolov8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CAD Modelling</title>
+      <link>http://localhost:1313/tags/cad-modelling/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cad-modelling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Feedback Control</title>
+      <link>http://localhost:1313/tags/feedback-control/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/feedback-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forward / Inverse Kinematics</title>
+      <link>http://localhost:1313/tags/forward-/-inverse-kinematics/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forward-/-inverse-kinematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laser Cutting / Assembly</title>
+      <link>http://localhost:1313/tags/laser-cutting-/-assembly/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/laser-cutting-/-assembly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3D Printing</title>
+      <link>http://localhost:1313/tags/3d-printing/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/3d-printing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CAD Models</title>
+      <link>http://localhost:1313/tags/cad-models/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cad-models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soft Robotics</title>
+      <link>http://localhost:1313/tags/soft-robotics/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/soft-robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/tags/unity/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Example</title>
+      <link>http://localhost:1313/tags/example/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>http://localhost:1313/tags/markdown-syntax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathjax</title>
+      <link>http://localhost:1313/tags/mathjax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>http://localhost:1313/tags/sample/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/tags/emoji-support/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/tags/emoji-support/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/tags/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/tags/placeholder-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/tags/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/tags/rich-content/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
