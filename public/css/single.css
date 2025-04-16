@@ -319,11 +319,4 @@
     transition: width .2s;
 }
 
-img.slide-img {
-    margin-bottom: 20px;
-    display: block;
-    width: 100%;
-    height: auto;
-  }
-
 /* Singlepage scroll progress end */

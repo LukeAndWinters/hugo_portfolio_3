@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>GUI Design on Hugo Profile</title>
-    <link>http://localhost:1313/tags/gui-design/</link>
-    <description>Recent content in GUI Design on Hugo Profile</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gui-design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automated Manufacturing Monitoring and Alert System - Coogee Chemicals</title>
-      <link>http://localhost:1313/projects/coogee_cv/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/coogee_cv/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE&lt;/strong&gt;&#xA;&lt;strong&gt;- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GUI Design on Hugo Profile</title><link>https://github.com/LukeAndWinters/PortfolioHugo/tags/gui-design/</link><description>Recent content in GUI Design on Hugo Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LukeAndWinters/PortfolioHugo/tags/gui-design/index.xml" rel="self" type="application/rss+xml"/><item><title>Automated Manufacturing Monitoring and Alert System - Coogee Chemicals</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_cv/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_cv/</guid><description>&lt;p>&lt;strong>PLEASE NOTE&lt;/strong>
+&lt;strong>- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong>&lt;/p>
+&lt;h3 id="overview">Overview&lt;/h3>
+&lt;ul>
+&lt;li>Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li>
+&lt;/ul>
+&lt;p>Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p></description></item></channel></rss>
