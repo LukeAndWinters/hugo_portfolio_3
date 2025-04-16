@@ -37,7 +37,7 @@
       <description></description>
     </item>
     <item>
-      <title>YOLOv8</title>
+      <title>YoloV8</title>
       <link>http://localhost:1313/tags/yolov8/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/yolov8/</guid>
@@ -93,17 +93,87 @@
       <description></description>
     </item>
     <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
-      <title>Unity</title>
-      <link>http://localhost:1313/tags/unity/</link>
+      <title>Embedded System</title>
+      <link>http://localhost:1313/tags/embedded-system/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/unity/</guid>
+      <guid>http://localhost:1313/tags/embedded-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Experiment Design</title>
+      <link>http://localhost:1313/tags/experiment-design/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/experiment-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motor Control</title>
+      <link>http://localhost:1313/tags/motor-control/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/motor-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GUI Design</title>
+      <link>http://localhost:1313/tags/gui-design/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gui-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCV</title>
+      <link>http://localhost:1313/tags/opencv/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PLC</title>
+      <link>http://localhost:1313/tags/plc/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/tags/pytorch/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real Time Inference</title>
+      <link>http://localhost:1313/tags/real-time-inference/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/real-time-inference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTSP</title>
+      <link>http://localhost:1313/tags/rtsp/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rtsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/tags/tensorflow/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
