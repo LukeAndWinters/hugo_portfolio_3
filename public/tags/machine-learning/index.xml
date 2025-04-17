@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning on Hugo Profile</title><link>https://github.com/LukeAndWinters/PortfolioHugo/tags/machine-learning/</link><description>Recent content in Machine Learning on Hugo Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LukeAndWinters/PortfolioHugo/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>Particle Analysis Using Machine Learning - Coogee Chemicals</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</guid><description>&lt;p>&lt;strong>PLEASE NOTE&lt;/strong>
-&lt;strong>- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong>&lt;/p>
-&lt;h3 id="overview">Overview&lt;/h3>
-&lt;ul>
-&lt;li>Use AI, Machine Learning, and Computer Vision, approaches to analyse titanium powder samples&lt;/li>
-&lt;li>Used in combination with Bayesian optimisaiton to generate useful output.&lt;/li>
-&lt;li>Differet from traditional Particle Analysis Methods (DIA, SLS, DLS and Sieve Analysis) oppossed to traditional methods which require physical samples&lt;/li>
-&lt;/ul>
-&lt;p>Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2 and Roboflow&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Hugo Profile</title>
+    <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Particle Analysis Using Machine Learning - Coogee Chemicals</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE&lt;/strong&gt;&#xA;&lt;strong&gt;- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use AI, Machine Learning, and Computer Vision, approaches to analyse titanium powder samples&lt;/li&gt;&#xA;&lt;li&gt;Used in combination with Bayesian optimisaiton to generate useful output.&lt;/li&gt;&#xA;&lt;li&gt;Differet from traditional Particle Analysis Methods (DIA, SLS, DLS and Sieve Analysis) oppossed to traditional methods which require physical samples&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2 and Roboflow&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

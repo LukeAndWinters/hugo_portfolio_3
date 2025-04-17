@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laser Cutting / Assembly on Hugo Profile</title><link>https://github.com/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/</link><description>Recent content in Laser Cutting / Assembly on Hugo Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/index.xml" rel="self" type="application/rss+xml"/><item><title>ChessBot - Closed Loop Control</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/chessrobot/</link><pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/chessrobot/</guid><description>&lt;h4 id="voice-over-project-video">Voice Over Project Video&lt;/h4>
-&lt;iframe width="100%" height="450" 
- src="https://www.youtube.com/embed/Llkglyc_V0Q" 
- title="ChessBot Video Demo" 
- frameborder="0" 
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen>
-&lt;/iframe>
-&lt;p>This system uses closed-loop velocity control and vision-based feedback to control a robotic arm designed for playing chess. The parallel linkage mechanism ensures accurate and fluid movement of the chess pieces on a real board.&lt;/p>
-&lt;h4 id="e4-move-execution---side-view">E4 Move execution - Side view&lt;/h4>
-&lt;img src="https://github.com/LukeAndWinters/PortfolioHugo/images/Chess/ChessBot_gif_side.gif" alt="ChessBot Side View" class="slide-img">
-&lt;img src="https://github.com/LukeAndWinters/PortfolioHugo/images/Chess/ChessBot_gif_front.gif" alt="ChessBot Front View Animation" class="slide-img"></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laser Cutting / Assembly on Hugo Profile</title>
+    <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/</link>
+    <description>Recent content in Laser Cutting / Assembly on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChessBot - Closed Loop Control</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</guid>
+      <description>&lt;h4 id=&#34;voice-over-project-video&#34;&gt;Voice Over Project Video&lt;/h4&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; &#xA;  src=&#34;https://www.youtube.com/embed/Llkglyc_V0Q&#34; &#xA;  title=&#34;ChessBot Video Demo&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;This system uses closed-loop velocity control and vision-based feedback to control a robotic arm designed for playing chess. The parallel linkage mechanism ensures accurate and fluid movement of the chess pieces on a real board.&lt;/p&gt;&#xA;&lt;h4 id=&#34;e4-move-execution---side-view&#34;&gt;E4 Move execution - Side view&lt;/h4&gt;&#xA;&lt;img src=&#34;../../../images/Chess/ChessBot_gif_side.gif&#34; alt=&#34;ChessBot Side View&#34; class=&#34;slide-img&#34;&gt;&#xA;&lt;img src=&#34;../../../images/Chess/ChessBot_gif_front.gif&#34; alt=&#34;ChessBot Front View Animation&#34; class=&#34;slide-img&#34;&gt;</description>
+    </item>
+  </channel>
+</rss>

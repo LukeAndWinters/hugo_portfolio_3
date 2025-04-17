@@ -1,132 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Hugo Profile</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/</link><description>Recent content in Projects on Hugo Profile</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LukeAndWinters/PortfolioHugo/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Drone Beach Safety System - Capstone</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/capstone/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/capstone/</guid><description>&lt;p>Multiple drones autonomously patrol a beach, they use a Machine Learning model to detect common beach hazards such as &lt;strong>sharks&lt;/strong>, &lt;strong>rip-currents&lt;/strong> and &lt;strong>swimmers&lt;/strong>. Hazard locations and human Surf-Life-Saver (SLS) input is used in Multi-Agent Control Theory to optimally path the drones based on SLS input - assisting with emergency response and coverage.&lt;/p>
-&lt;p>Proof-of-concept drone patrol network made in collaboration with the SharkSmart Drone Trial Surf-Life Savers members.&lt;/p>
-&lt;h2 id="project-demo">Project Demo&lt;/h2>
-&lt;iframe width="100%" height="670" 
- src="https://www.youtube.com/embed/-2F_cr2FCYE"
- title="Drill Video - Mechatronics Systems Design" 
- frameborder="0" 
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen>
-&lt;/iframe>
-&lt;div style="display: flex; gap: 2rem; flex-wrap: wrap; justify-content: space-between;">
- &lt;br>
- &lt;div style="flex: 1; min-width: 250px;">
- &lt;h5>Asset Labels: &lt;/h5>
- &lt;ul>
- &lt;li>&lt;strong>Pink Squares&lt;/strong> – Drone Camera Field of View (FoV)&lt;/li>
- &lt;li>&lt;strong>Green Circle&lt;/strong> – Human Swimmer outline&lt;/li>
- &lt;li>&lt;strong>Red Circles&lt;/strong> – Shark outline&lt;/li>
- &lt;/ul>
- &lt;/div>
- &lt;div style="flex: 1; min-width: 250px;">
- &lt;h5>Mapping Labels: &lt;/h5>
- &lt;ul>
- &lt;li>&lt;strong>Orange&lt;/strong> – Uncertainty Regions&lt;/li>
- &lt;li>&lt;strong>Red Gaussians&lt;/strong> – Interest Regions (Manually dropped with human input)&lt;/li>
- &lt;/ul>
- &lt;/div>
-&lt;/div>
-&lt;h5>Side Bar :&lt;/h5> 
-&lt;p>&lt;strong>Spawners&lt;/strong>: Can spawn in humans, sharks, rocks and patrolling drones.&lt;br>
-&lt;strong>Importance&lt;/strong>: Adjust the uncertainty and interest metrics to influence drone pathing&lt;/p></description></item><item><title>Full Capstone Project Presention Slides</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/capstone_slides/</link><pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/capstone_slides/</guid><description>&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide1.png" alt="Slide 1">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide2.png" alt="Slide 2">
-&lt;h3 id="background">Background&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide3.png" alt="Slide 3">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide4.png" alt="Slide 4">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide5.png" alt="Slide 5">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide6.png" alt="Slide 6">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide7.png" alt="Slide 7">
-&lt;h3 id="introduction">Introduction&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide8.png" alt="Slide 8">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide9.png" alt="Slide 9">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide10.png" alt="Slide 10">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide11.png" alt="Slide 11">
-&lt;h3 id="simulation">Simulation&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide12.png" alt="Slide 12">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide13.png" alt="Slide 13">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide14.png" alt="Slide 14">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide15.png" alt="Slide 15">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide16.png" alt="Slide 16">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide17.png" alt="Slide 17">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide18.png" alt="Slide 18">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide19.png" alt="Slide 19">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide20.png" alt="Slide 20">
-&lt;h3 id="computer-vision">Computer Vision&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide21.png" alt="Slide 21">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide22.png" alt="Slide 22">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide23.png" alt="Slide 23">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide24.png" alt="Slide 24">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide25.png" alt="Slide 25">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide26.png" alt="Slide 26">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide27.png" alt="Slide 27">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide28.png" alt="Slide 28">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide29.png" alt="Slide 29">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide30.png" alt="Slide 30">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide31.png" alt="Slide 31">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide32.png" alt="Slide 32">
-&lt;h3 id="multi-agent-control">Multi-Agent Control&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide33.png" alt="Slide 33">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide34.png" alt="Slide 34">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide35.png" alt="Slide 35">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide36.png" alt="Slide 36">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide37.png" alt="Slide 37">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide38.png" alt="Slide 38">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide39.png" alt="Slide 39">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide40.png" alt="Slide 40">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide41.png" alt="Slide 41">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide42.png" alt="Slide 42">
-&lt;h3 id="system-integration">System Integration&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide43.png" alt="Slide 43">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide44.png" alt="Slide 44">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide45.png" alt="Slide 45">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide46.png" alt="Slide 46">
-&lt;h3 id="conclusion">Conclusion&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide47.png" alt="Slide 47">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide48.png" alt="Slide 48">
-&lt;h3 id="future-work">Future Work&lt;/h3>
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide49.png" alt="Slide 49">
-&lt;img class="slide-img" src="https://github.com/LukeAndWinters/PortfolioHugo/images/Capstone/Slides/Slide50.png" alt="Slide 50"></description></item><item><title>ChessBot - Closed Loop Control</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/chessrobot/</link><pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/chessrobot/</guid><description>&lt;h4 id="voice-over-project-video">Voice Over Project Video&lt;/h4>
-&lt;iframe width="100%" height="450" 
- src="https://www.youtube.com/embed/Llkglyc_V0Q" 
- title="ChessBot Video Demo" 
- frameborder="0" 
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen>
-&lt;/iframe>
-&lt;p>This system uses closed-loop velocity control and vision-based feedback to control a robotic arm designed for playing chess. The parallel linkage mechanism ensures accurate and fluid movement of the chess pieces on a real board.&lt;/p>
-&lt;h4 id="e4-move-execution---side-view">E4 Move execution - Side view&lt;/h4>
-&lt;img src="https://github.com/LukeAndWinters/PortfolioHugo/images/Chess/ChessBot_gif_side.gif" alt="ChessBot Side View" class="slide-img">
-&lt;img src="https://github.com/LukeAndWinters/PortfolioHugo/images/Chess/ChessBot_gif_front.gif" alt="ChessBot Front View Animation" class="slide-img"></description></item><item><title>Humanoid Soft-Robotic Hand</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/humanoidhand/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/humanoidhand/</guid><description>&lt;p>Single motor design connected via internal strings to each finger. Actuating the motor contracts the fingers. Fingers modelled based on actual human hand, and fingers 3D printed to to exhibit human range of motion.&lt;/p>
-&lt;h4 id="initial-finger-prototype-vs-final-iteration">Initial Finger Prototype vs Final Iteration&lt;/h4>
-&lt;p>Showcases initial finger bending test, vs final design model, with humanoid hand and fingers implemented.&lt;/p>
-&lt;div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
- &lt;div style="text-align: center;">
- &lt;iframe width="280" height="500"
- src="https://www.youtube.com/embed/iY-L_qGGkqY"
- title="YouTube Short 1"
- frameborder="0"
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
- allowfullscreen>
- &lt;/iframe>
- &lt;p style="margin-top: 0.5rem;">Finger Contraction Prototype&lt;/p></description></item><item><title>Drill Experiment - Measuring Relationship Between Drill Length and Torque</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/drill/</link><pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/drill/</guid><description>&lt;iframe width="100%" height="450" 
- src="https://www.youtube.com/embed/MxE4Ym68O-w" 
- title="Drill Video - Mechatronics Systems Design" 
- frameborder="0" 
- allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
- allowfullscreen>
-&lt;/iframe>
-&lt;p>Designed a experimental system to measure the relationship between Archimedes screw length and torque exerted on the drill.&lt;/p></description></item><item><title>Automated Manufacturing Monitoring and Alert System - Coogee Chemicals</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_cv/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_cv/</guid><description>&lt;p>&lt;strong>PLEASE NOTE&lt;/strong>
-&lt;strong>- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong>&lt;/p>
-&lt;h3 id="overview">Overview&lt;/h3>
-&lt;ul>
-&lt;li>Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li>
-&lt;/ul>
-&lt;p>Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p></description></item><item><title>Particle Analysis Using Machine Learning - Coogee Chemicals</title><link>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://github.com/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</guid><description>&lt;p>&lt;strong>PLEASE NOTE&lt;/strong>
-&lt;strong>- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong>&lt;/p>
-&lt;h3 id="overview">Overview&lt;/h3>
-&lt;ul>
-&lt;li>Use AI, Machine Learning, and Computer Vision, approaches to analyse titanium powder samples&lt;/li>
-&lt;li>Used in combination with Bayesian optimisaiton to generate useful output.&lt;/li>
-&lt;li>Differet from traditional Particle Analysis Methods (DIA, SLS, DLS and Sieve Analysis) oppossed to traditional methods which require physical samples&lt;/li>
-&lt;/ul>
-&lt;p>Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2 and Roboflow&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Hugo Profile</title>
+    <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/</link>
+    <description>Recent content in Projects on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drone Beach Safety System - Capstone</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/capstone/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/capstone/</guid>
+      <description>&lt;p&gt;Multiple drones autonomously patrol a beach, they use a Machine Learning model to detect common beach hazards such as &lt;strong&gt;sharks&lt;/strong&gt;, &lt;strong&gt;rip-currents&lt;/strong&gt; and &lt;strong&gt;swimmers&lt;/strong&gt;. Hazard locations and human Surf-Life-Saver (SLS) input is used in Multi-Agent Control Theory to optimally path the drones based on SLS input - assisting with emergency response and coverage.&lt;/p&gt;&#xA;&lt;p&gt;Proof-of-concept drone patrol network made in collaboration with the SharkSmart Drone Trial Surf-Life Savers members.&lt;/p&gt;&#xA;&lt;h2 id=&#34;project-demo&#34;&gt;Project Demo&lt;/h2&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;670&#34; &#xA;  src=&#34;https://www.youtube.com/embed/-2F_cr2FCYE&#34;&#xA;  title=&#34;Drill Video - Mechatronics Systems Design&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;div style=&#34;display: flex; gap: 2rem; flex-wrap: wrap; justify-content: space-between;&#34;&gt;&#xA;  &lt;br&gt;&#xA;  &lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;    &lt;h5&gt;Asset Labels: &lt;/h5&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Pink Squares&lt;/strong&gt; – Drone Camera Field of View (FoV)&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Green Circle&lt;/strong&gt; – Human Swimmer outline&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Red Circles&lt;/strong&gt; – Shark outline&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex: 1; min-width: 250px;&#34;&gt;&#xA;    &lt;h5&gt;Mapping Labels: &lt;/h5&gt;&#xA;    &lt;ul&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Orange&lt;/strong&gt; – Uncertainty Regions&lt;/li&gt;&#xA;      &lt;li&gt;&lt;strong&gt;Red Gaussians&lt;/strong&gt; – Interest Regions (Manually dropped with human input)&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;h5&gt;Side Bar :&lt;/h5&gt;  &#xA;&lt;p&gt;&lt;strong&gt;Spawners&lt;/strong&gt;: Can spawn in humans, sharks, rocks and patrolling drones.&lt;br&gt;&#xA;&lt;strong&gt;Importance&lt;/strong&gt;: Adjust the uncertainty and interest metrics to influence drone pathing&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Full Capstone Project Presention Slides</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/capstone_slides/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/capstone_slides/</guid>
+      <description>&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide1.png&#34; alt=&#34;Slide 1&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide2.png&#34; alt=&#34;Slide 2&#34;&gt;&#xA;&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide3.png&#34; alt=&#34;Slide 3&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide4.png&#34; alt=&#34;Slide 4&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide5.png&#34; alt=&#34;Slide 5&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide6.png&#34; alt=&#34;Slide 6&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide7.png&#34; alt=&#34;Slide 7&#34;&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide8.png&#34; alt=&#34;Slide 8&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide9.png&#34; alt=&#34;Slide 9&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide10.png&#34; alt=&#34;Slide 10&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide11.png&#34; alt=&#34;Slide 11&#34;&gt;&#xA;&lt;h3 id=&#34;simulation&#34;&gt;Simulation&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide12.png&#34; alt=&#34;Slide 12&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide13.png&#34; alt=&#34;Slide 13&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide14.png&#34; alt=&#34;Slide 14&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide15.png&#34; alt=&#34;Slide 15&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide16.png&#34; alt=&#34;Slide 16&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide17.png&#34; alt=&#34;Slide 17&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide18.png&#34; alt=&#34;Slide 18&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide19.png&#34; alt=&#34;Slide 19&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide20.png&#34; alt=&#34;Slide 20&#34;&gt;&#xA;&lt;h3 id=&#34;computer-vision&#34;&gt;Computer Vision&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide21.png&#34; alt=&#34;Slide 21&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide22.png&#34; alt=&#34;Slide 22&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide23.png&#34; alt=&#34;Slide 23&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide24.png&#34; alt=&#34;Slide 24&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide25.png&#34; alt=&#34;Slide 25&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide26.png&#34; alt=&#34;Slide 26&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide27.png&#34; alt=&#34;Slide 27&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide28.png&#34; alt=&#34;Slide 28&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide29.png&#34; alt=&#34;Slide 29&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide30.png&#34; alt=&#34;Slide 30&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide31.png&#34; alt=&#34;Slide 31&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide32.png&#34; alt=&#34;Slide 32&#34;&gt;&#xA;&lt;h3 id=&#34;multi-agent-control&#34;&gt;Multi-Agent Control&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide33.png&#34; alt=&#34;Slide 33&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide34.png&#34; alt=&#34;Slide 34&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide35.png&#34; alt=&#34;Slide 35&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide36.png&#34; alt=&#34;Slide 36&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide37.png&#34; alt=&#34;Slide 37&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide38.png&#34; alt=&#34;Slide 38&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide39.png&#34; alt=&#34;Slide 39&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide40.png&#34; alt=&#34;Slide 40&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide41.png&#34; alt=&#34;Slide 41&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide42.png&#34; alt=&#34;Slide 42&#34;&gt;&#xA;&lt;h3 id=&#34;system-integration&#34;&gt;System Integration&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide43.png&#34; alt=&#34;Slide 43&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide44.png&#34; alt=&#34;Slide 44&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide45.png&#34; alt=&#34;Slide 45&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide46.png&#34; alt=&#34;Slide 46&#34;&gt;&#xA;&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide47.png&#34; alt=&#34;Slide 47&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide48.png&#34; alt=&#34;Slide 48&#34;&gt;&#xA;&lt;h3 id=&#34;future-work&#34;&gt;Future Work&lt;/h3&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide49.png&#34; alt=&#34;Slide 49&#34;&gt;&#xA;&lt;img class=&#34;slide-img&#34; src=&#34;../images/Capstone/Slides/Slide50.png&#34; alt=&#34;Slide 50&#34;&gt;</description>
+    </item>
+    <item>
+      <title>ChessBot - Closed Loop Control</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</guid>
+      <description>&lt;h4 id=&#34;voice-over-project-video&#34;&gt;Voice Over Project Video&lt;/h4&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; &#xA;  src=&#34;https://www.youtube.com/embed/Llkglyc_V0Q&#34; &#xA;  title=&#34;ChessBot Video Demo&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;This system uses closed-loop velocity control and vision-based feedback to control a robotic arm designed for playing chess. The parallel linkage mechanism ensures accurate and fluid movement of the chess pieces on a real board.&lt;/p&gt;&#xA;&lt;h4 id=&#34;e4-move-execution---side-view&#34;&gt;E4 Move execution - Side view&lt;/h4&gt;&#xA;&lt;img src=&#34;../images/Chess/ChessBot_gif_side.gif&#34; alt=&#34;ChessBot Side View&#34; class=&#34;slide-img&#34;&gt;&#xA;&lt;img src=&#34;../images/Chess/ChessBot_gif_front.gif&#34; alt=&#34;ChessBot Front View Animation&#34; class=&#34;slide-img&#34;&gt;</description>
+    </item>
+    <item>
+      <title>Humanoid Soft-Robotic Hand</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/humanoidhand/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/humanoidhand/</guid>
+      <description>&lt;p&gt;Single motor design connected via internal strings to each finger. Actuating the motor contracts the fingers. Fingers modelled based on actual human hand, and fingers 3D printed to to exhibit human range of motion.&lt;/p&gt;&#xA;&lt;h4 id=&#34;initial-finger-prototype-vs-final-iteration&#34;&gt;Initial Finger Prototype vs Final Iteration&lt;/h4&gt;&#xA;&lt;p&gt;Showcases initial finger bending test, vs final design model, with humanoid hand and fingers implemented.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;&#34;&gt;&#xA;  &lt;div style=&#34;text-align: center;&#34;&gt;&#xA;    &lt;iframe width=&#34;280&#34; height=&#34;500&#34;&#xA;      src=&#34;https://www.youtube.com/embed/iY-L_qGGkqY&#34;&#xA;      title=&#34;YouTube Short 1&#34;&#xA;      frameborder=&#34;0&#34;&#xA;      allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34;&#xA;      allowfullscreen&gt;&#xA;    &lt;/iframe&gt;&#xA;    &lt;p style=&#34;margin-top: 0.5rem;&#34;&gt;Finger Contraction Prototype&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drill Experiment - Measuring Relationship Between Drill Length and Torque</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/drill/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/drill/</guid>
+      <description>&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; &#xA;  src=&#34;https://www.youtube.com/embed/MxE4Ym68O-w&#34; &#xA;  title=&#34;Drill Video - Mechatronics Systems Design&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;Designed a experimental system to measure the relationship between Archimedes screw length and torque exerted on the drill.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automated Manufacturing Monitoring and Alert System - Coogee Chemicals</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/coogee_cv/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/coogee_cv/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE&lt;/strong&gt;&#xA;&lt;strong&gt;- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Particle Analysis Using Machine Learning - Coogee Chemicals</title>
+      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/coogee_particle/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE&lt;/strong&gt;&#xA;&lt;strong&gt;- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Use AI, Machine Learning, and Computer Vision, approaches to analyse titanium powder samples&lt;/li&gt;&#xA;&lt;li&gt;Used in combination with Bayesian optimisaiton to generate useful output.&lt;/li&gt;&#xA;&lt;li&gt;Differet from traditional Particle Analysis Methods (DIA, SLS, DLS and Sieve Analysis) oppossed to traditional methods which require physical samples&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2 and Roboflow&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

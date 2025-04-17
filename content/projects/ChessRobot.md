@@ -9,6 +9,7 @@ tags:
   - CAD modelling
   - Laser Cutting / Assembly
 image: "/images/Chess/ChessBot_gif_front.gif"
+
 featured: false
 hide_feature_image: true
 ---
