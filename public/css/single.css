@@ -319,10 +319,4 @@
     transition: width .2s;
 }
 
-.slide-img {
-    display: block;
-    margin-bottom: 1.5rem; /* space between slides */
-    max-width: 100%;
-  }
-
 /* Singlepage scroll progress end */

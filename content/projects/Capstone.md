@@ -71,7 +71,7 @@ In this video when a shark is detected, it shows the camera in red, and automati
 All the drone views are streamed to monitor(s) in the SLS tower, when detections are made it sends an alert, so they can review the appropriate camera, and make decisions based on this information. E.g. A shark is spotted by a patrolling drone, the life-saver can verify this and receive continuosu location updates from the drone. 
 
 <br>
-<br>
+</br>
  
 
 ## High-Level System Overview
@@ -98,7 +98,7 @@ This was implemented so that SLS could tune the design, preferencing hazards the
 System intended as an extension to the already in-operation SharkSmart Drone trail in NSW and Queensland to help reduce emergency response time, provide critical information to live-savers and increase their coverage capabilities. 
 
 <br>
-<br>
+</br>
 
 ## Multi-Agent Control Highlights
 
@@ -114,7 +114,7 @@ Unique application of tunable *Interest* and *Uncertainty* to influence drone pa
 </iframe>
 
 <br>
-<br>
+</br>
 
 #### Uncertainty
 - **Blue - Green:** shows linearly increasing uncertainty function. Drones are driven to explore uncertain areas. The drone FOV (underneath the drone) is 0 Uncertainty. Inversse importance function (further away). Encourages drones to explore the area around itself, that is the least recently seen. 
@@ -122,7 +122,7 @@ Unique application of tunable *Interest* and *Uncertainty* to influence drone pa
 <img class="slide-img" src="/images/Capstone/Slides/Slide37.png" alt="Slide 37">
 
 <br>
-
+</br>
 
 #### Interest 
 - **Red - White:** Particular points drones are driven to explore. (These are created from hazard detections e.g. spotting a shark)
@@ -132,11 +132,14 @@ Unique application of tunable *Interest* and *Uncertainty* to influence drone pa
 ##### *Weighed(Uncertainy) + Weighted(Interest) = Drone Path*
 <img class="slide-img" src="/images/Capstone/Slides/Slide38.png" alt="Slide 38">
 
+<br>
+</br>
+
 #### Search Area and Partitions
 <img class="slide-img" src="/images/Capstone/Slides/Slide35.png" alt="Slide 35">
 
 <br>
-<br>
+</br>
 
 ## Machine Learning Highlights 
 #### Data Collection - Simulation View 
@@ -170,7 +173,11 @@ Drone view during the data collection, can see the automated object detection la
 ## Simulation Highlights
 
 <img class="slide-img" src="/images/Capstone/Slides/Slide14.png" alt="Slide 14">
+<br>
+</br>
 <img class="slide-img" src="/images/Capstone/Slides/Slide16.png" alt="Slide 16">
+<br>
+</br>
 
 <iframe width="100%" height="450" 
   src="https://www.youtube.com/embed/61w9dEtJFhY" 
