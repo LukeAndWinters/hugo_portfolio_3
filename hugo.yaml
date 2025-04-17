@@ -145,7 +145,7 @@ params:
     title: "Luke."
     subtitle: "I'm a Mechatronics Engineer, and Computer Vision Intern"
     content: "A tinkerer, and a lifelong learner. I’m passionate about building and designing things that make a difference. \n Take a look at my projects below!"
-    image: /images/profile.jpeg
+    image: /images/Profile.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
