@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laser Cutting / Assembly on Hugo Profile</title>
-    <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/</link>
+    <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/laser-cutting-/-assembly/</link>
     <description>Recent content in Laser Cutting / Assembly on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/laser-cutting-/-assembly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChessBot - Closed Loop Control</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/chessrobot/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/chessrobot/</guid>
       <description>&lt;h4 id=&#34;voice-over-project-video&#34;&gt;Voice Over Project Video&lt;/h4&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;450&#34; &#xA;  src=&#34;https://www.youtube.com/embed/Llkglyc_V0Q&#34; &#xA;  title=&#34;ChessBot Video Demo&#34; &#xA;  frameborder=&#34;0&#34; &#xA;  allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; &#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;&#xA;&lt;p&gt;This system uses closed-loop velocity control and vision-based feedback to control a robotic arm designed for playing chess. The parallel linkage mechanism ensures accurate and fluid movement of the chess pieces on a real board.&lt;/p&gt;&#xA;&lt;h4 id=&#34;e4-move-execution---side-view&#34;&gt;E4 Move execution - Side view&lt;/h4&gt;&#xA;&lt;img src=&#34;../../../images/Chess/ChessBot_gif_side.gif&#34; alt=&#34;ChessBot Side View&#34; class=&#34;slide-img&#34;&gt;&#xA;&lt;img src=&#34;../../../images/Chess/ChessBot_gif_front.gif&#34; alt=&#34;ChessBot Front View Animation&#34; class=&#34;slide-img&#34;&gt;</description>
     </item>
   </channel>

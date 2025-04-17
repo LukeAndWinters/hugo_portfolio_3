@@ -2,227 +2,227 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Profile</title>
-    <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/</link>
+    <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/</link>
     <description>Recent content in Tags on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/computer-vision/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/computer-vision/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/computer-vision/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Customer Interaction</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/customer-interaction/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/customer-interaction/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/customer-interaction/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/customer-interaction/</guid>
       <description></description>
     </item>
     <item>
       <title>Multi-Agent Control Theory</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/multi-agent-control-theory/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/multi-agent-control-theory/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/multi-agent-control-theory/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/multi-agent-control-theory/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity HDRP</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/unity-hdrp/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/unity-hdrp/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/unity-hdrp/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/unity-hdrp/</guid>
       <description></description>
     </item>
     <item>
       <title>YoloV8</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/yolov8/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/yolov8/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</guid>
       <description></description>
     </item>
     <item>
       <title>CAD Modelling</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/cad-modelling/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-modelling/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/cad-modelling/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-modelling/</guid>
       <description></description>
     </item>
     <item>
       <title>Feedback Control</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/feedback-control/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/feedback-control/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/feedback-control/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/feedback-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Forward / Inverse Kinematics</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/forward-/-inverse-kinematics/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/forward-/-inverse-kinematics/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/forward-/-inverse-kinematics/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/forward-/-inverse-kinematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Laser Cutting / Assembly</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/laser-cutting-/-assembly/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/laser-cutting-/-assembly/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/laser-cutting-/-assembly/</guid>
       <description></description>
     </item>
     <item>
       <title>3D Printing</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/3d-printing/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/3d-printing/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/3d-printing/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/3d-printing/</guid>
       <description></description>
     </item>
     <item>
       <title>CAD Models</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/cad-models/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-models/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/cad-models/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Soft Robotics</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/soft-robotics/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/soft-robotics/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/soft-robotics/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/soft-robotics/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Analysis</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/data-analysis/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/data-analysis/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/data-analysis/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/data-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Embedded System</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/embedded-system/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-system/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/embedded-system/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/embedded-system/</guid>
       <description></description>
     </item>
     <item>
       <title>Experiment Design</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/experiment-design/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/experiment-design/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/experiment-design/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/experiment-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Motor Control</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/motor-control/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/motor-control/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/motor-control/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/motor-control/</guid>
       <description></description>
     </item>
     <item>
       <title>GUI Design</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/gui-design/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/gui-design/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/machine-learning/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenCV</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/opencv/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/opencv/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</guid>
       <description></description>
     </item>
     <item>
       <title>PLC</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/plc/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/plc/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</guid>
       <description></description>
     </item>
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/pytorch/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/pytorch/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/pytorch/</guid>
       <description></description>
     </item>
     <item>
       <title>Real Time Inference</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/real-time-inference/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/real-time-inference/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</guid>
       <description></description>
     </item>
     <item>
       <title>RTSP</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/rtsp/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/rtsp/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</guid>
       <description></description>
     </item>
     <item>
       <title>TensorFlow</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/tensorflow/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/tensorflow/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Example</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/example/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/example/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/example/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown Syntax</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/markdown-syntax/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/markdown-syntax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/markdown-syntax/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/markdown-syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathjax</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/mathjax/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/mathjax/</link>
       <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/mathjax/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/mathjax/</guid>
       <description></description>
     </item>
     <item>
       <title>Sample</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/sample/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/sample/</link>
       <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/sample/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/sample/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/emoji-support/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/emoji-support/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/emoji-support/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/emoji-support/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/placeholder-text/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/placeholder-text/</link>
       <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/placeholder-text/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/placeholder-text/</guid>
       <description></description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/rich-content/</link>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rich-content/</link>
       <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/PortfolioHugo/tags/rich-content/</guid>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rich-content/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChessBot - Closed Loop Control on Hugo Profile</title>
-    <link>http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/</link>
+    <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/chessrobot/</link>
     <description>Recent content in ChessBot - Closed Loop Control on Hugo Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/LukeAndWinters/PortfolioHugo/projects/chessrobot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/chessrobot/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
