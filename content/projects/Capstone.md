@@ -170,7 +170,6 @@ Drone view during the data collection, can see the automated object detection la
 ## Simulation Highlights
 
 <img class="slide-img" src="/images/Capstone/Slides/Slide14.png" alt="Slide 14">
-
 <img class="slide-img" src="/images/Capstone/Slides/Slide16.png" alt="Slide 16">
 
 <iframe width="100%" height="450" 
