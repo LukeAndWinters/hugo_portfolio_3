@@ -1,6 +1,6 @@
 baseURL: "https://github.com/LukeAndWinters/hugo_3_backup"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Luke's Profile"
 theme: hugo-profile
 relativeURLs: true
 canonifyURLs: true
@@ -69,7 +69,7 @@ params:
   title: "Hugo Profile"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/Profile.png"
 
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
