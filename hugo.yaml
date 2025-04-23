@@ -152,7 +152,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/images/Luke_Winters_Resume_April_2025_Current.pdf"
+      url: "/images/LukeWinters_Resume_UpdatedApr22.pdf"
       download: true
       newPage: true
     socialLinks:
