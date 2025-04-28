@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_cv/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/computer-vision/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/digital/analog-signal-conversion/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/customer-interaction/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
@@ -14,22 +47,10 @@
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/capstone_slides/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/multi-agent-control-theory/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/unity-hdrp/</loc>
-    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/cad-modelling/</loc>
@@ -59,6 +80,9 @@
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/soft-robotics/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/solidworks/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/data-analysis/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -74,34 +98,13 @@
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/motor-control/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_cv/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/machine-learning/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_particle/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/pytorch/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/LukeAndWinters/hugo_3_backup/blogs/</loc>

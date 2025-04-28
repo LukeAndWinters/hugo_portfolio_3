@@ -7,6 +7,7 @@ tags:
   - 3D printing
   - CAD models
   - Soft Robotics
+  - Solidworks
 image: "/images/MSP/MSP_hand_gif_hz.gif"
 featured: true
 ---

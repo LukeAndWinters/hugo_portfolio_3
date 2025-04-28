@@ -35,14 +35,14 @@
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
-    <meta property="article:published_time" content="2024-01-01T00:00:00+00:00">
-    <meta property="article:modified_time" content="2024-01-01T00:00:00+00:00">
+    <meta property="article:published_time" content="2025-04-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-04-01T00:00:00+00:00">
     <meta property="article:tag" content="Computer Vision">
     <meta property="article:tag" content="OpenCV">
     <meta property="article:tag" content="YoloV8">
+    <meta property="article:tag" content="TensorFlow">
     <meta property="article:tag" content="PLC">
     <meta property="article:tag" content="RTSP">
-    <meta property="article:tag" content="Real Time Inference">
 
 
   <meta name="twitter:card" content="summary">
@@ -286,7 +286,7 @@ Automated Manufacturing Monitoring and Alert System - Coogee Chemicals | Luke&#3
             <h1 class="text-center mb-4">Automated Manufacturing Monitoring and Alert System - Coogee Chemicals</h1>
             <div class="text-center">
               
-              Jan 1, 2024
+              Apr 1, 2025
 
               
               <span id="readingTime">
@@ -297,17 +297,34 @@ Automated Manufacturing Monitoring and Alert System - Coogee Chemicals | Luke&#3
           </div>
           
           <div class="featured-image">
-            <img class="img-fluid mx-auto d-block" src="../../images/Coogee/images.png" alt="Automated Manufacturing Monitoring and Alert System - Coogee Chemicals">
+            <img class="img-fluid mx-auto d-block" src="../../images/Coogee/CVDU_cover.gif" alt="Automated Manufacturing Monitoring and Alert System - Coogee Chemicals">
           </div>
           
           <article class="page-content  p-2">
-          <p><strong>PLEASE NOTE</strong>
-<strong>- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)</strong></p>
-<h3 id="overview">Overview</h3>
+          <h3 id="overview">Overview</h3>
 <ul>
 <li>Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.</li>
 </ul>
 <p>Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.</p>
+<h3 id="video-demo">Video Demo</h3>
+<iframe width="880" height="520" src="https://www.youtube.com/embed/63AH2FNjILU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul>
+<li>Show custom_trained model detecting the different belt classes during operation.</li>
+<li>Setup for both real-time RTSP stream of plant CCTV footage and recorded mp4 footage for testing</li>
+<li>Graph displays real-time class outputs for easier visual reference</li>
+<li>Data is logged in Real Time</li>
+<li>Digital outputs Sending HIGH and LOW signals via NIDaq (National Instruments Digital to Analag Converter)</li>
+<li>Communicates directly with Siemens PLC</li>
+</ul>
+<h3 id="additional-ml-projects-implemented-on-cctv-footage">Additional ML Projects Implemented on CCTV footage:</h3>
+<ul>
+<li>Inference analysing the status of machine, capable of sending alerts when machine breaks</li>
+<li>Improvements needed to predict / stop the machine before it breaks</li>
+</ul>
+<p><img src="../../images/Coogee/Atomiser_inferece.gif" alt="Atomiser Start">
+<br>
+</br>
+<img src="../../images/Coogee/Atomiser_break.gif" alt="Atomiser Break"></p>
 
           </article>
         </div>
@@ -325,6 +342,8 @@ Automated Manufacturing Monitoring and Alert System - Coogee Chemicals | Luke&#3
     <li>
       <ul>
         <li><a href="#overview">Overview</a></li>
+        <li><a href="#video-demo">Video Demo</a></li>
+        <li><a href="#additional-ml-projects-implemented-on-cctv-footage">Additional ML Projects Implemented on CCTV footage:</a></li>
       </ul>
     </li>
   </ul>
@@ -350,6 +369,10 @@ Automated Manufacturing Monitoring and Alert System - Coogee Chemicals | Luke&#3
                 target="_blank"
               >YoloV8</a></li>
               
+              <li class="list-inline-item"><a href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow"
+                target="_blank"
+              >TensorFlow</a></li>
+              
               <li class="list-inline-item"><a href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc"
                 target="_blank"
               >PLC</a></li>
@@ -362,9 +385,9 @@ Automated Manufacturing Monitoring and Alert System - Coogee Chemicals | Luke&#3
                 target="_blank"
               >Real Time Inference</a></li>
               
-              <li class="list-inline-item"><a href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design"
+              <li class="list-inline-item"><a href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/digital/analog-signal-conversion"
                 target="_blank"
-              >GUI Design</a></li>
+              >Digital/Analog Signal Conversion</a></li>
               
             </ul>
           </aside>

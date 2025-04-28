@@ -23,4 +23,4 @@ featured: true
 - Used in combination with Bayesian optimisaiton to generate useful output.
 - Differet from traditional Particle Analysis Methods (DIA, SLS, DLS and Sieve Analysis) oppossed to traditional methods which require physical samples
 
-Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2 and Roboflow
+

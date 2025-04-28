@@ -6,14 +6,14 @@
     <description>Recent content in GUI Design on Luke&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Manufacturing Monitoring and Alert System - Coogee Chemicals</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_cv/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/projects/coogee_cv/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE&lt;/strong&gt;&#xA;&lt;strong&gt;- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE&lt;/strong&gt;&#xA;&lt;strong&gt;- Requesting Permission to Show video footage of implementation - (Page will be udpated shortly)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Real-time object detection and instance segmentation via live camera of industrial machinery to optimize operational performance. Full ML pipeline, labelling, training, inference and deployment.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2, PLCs for automation.&lt;/p&gt;&#xA;&lt;iframe width=&#34;880&#34; height=&#34;520&#34; src=&#34;https://www.youtube.com/embed/63AH2FNjILU&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Multiple ML Projects Implemented See Below:&lt;/p&gt;&#xA;&lt;p&gt;Here is the Trained Model for the atomiser&#xA;Application of Python, OpenCV, PyTorch, TensorFlow, YOLOv8, Detectron2 and Roboflow&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

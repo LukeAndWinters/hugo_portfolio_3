@@ -6,13 +6,62 @@
     <description>Recent content in Tags on Luke&#39;s Profile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/computer-vision/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital/Analog Signal Conversion</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/digital/analog-signal-conversion/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/digital/analog-signal-conversion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenCV</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PLC</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real Time Inference</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTSP</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TensorFlow</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YoloV8</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</guid>
       <description></description>
     </item>
     <item>
@@ -34,13 +83,6 @@
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/unity-hdrp/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/unity-hdrp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>YoloV8</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/yolov8/</guid>
       <description></description>
     </item>
     <item>
@@ -93,6 +135,13 @@
       <description></description>
     </item>
     <item>
+      <title>Solidworks</title>
+      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/solidworks/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/solidworks/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Data Analysis</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/data-analysis/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
@@ -121,13 +170,6 @@
       <description></description>
     </item>
     <item>
-      <title>GUI Design</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/gui-design/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Machine Learning</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -135,45 +177,10 @@
       <description></description>
     </item>
     <item>
-      <title>OpenCV</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/opencv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PLC</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/plc/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>PyTorch</title>
       <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Real Time Inference</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/real-time-inference/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>RTSP</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/rtsp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TensorFlow</title>
-      <link>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/LukeAndWinters/hugo_3_backup/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
