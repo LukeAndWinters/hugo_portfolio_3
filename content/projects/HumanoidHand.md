@@ -8,6 +8,7 @@ tags:
   - CAD models
   - Soft Robotics
   - Solidworks
+  - Prototyping
 image: "/images/MSP/MSP_hand_gif_hz.gif"
 featured: true
 ---

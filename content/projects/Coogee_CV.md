@@ -1,5 +1,5 @@
 ---
-title: "Automated Manufacturing Monitoring and Alert System - Coogee Chemicals"
+title: "Automated Monitoring and Alert System - Coogee Chemicals"
 date: 2025-04-01
 draft: false
 description: "Real-time object detection with live camera feed to optimize operational performance"
@@ -11,7 +11,7 @@ tags:
   - PLC 
   - RTSP 
   - Real Time Inference 
-  - Digital/Analog Signal Conversion
+  - Digital-Analog I/O
 image: "/images/Coogee/CVDU_cover.gif"
 featured: true
 ---
